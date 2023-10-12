@@ -1,13 +1,7 @@
 {
     "fieldValues": {
-        "workState": [
-          "AL"
-        ],
-        "coverageFor": [
-          "Individual"
-        ],
-        "currrentEOCov": [
-          "Yes"
+        "addressStandardization_test": [
+          "Response from Service"
         ]
     }
 }
